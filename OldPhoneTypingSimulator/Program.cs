@@ -19,7 +19,7 @@ namespace OldPhoneTypingSimulator
         {
             var inputPattern = @"^[0-9* ]*#$";
 
-            if (!Regex.Match(input, inputPattern).Success)
+            if (!Regex.IsMatch(input, inputPattern))
             {
                 throw new ArgumentException("Input value should contain only numbers, * and space with an ending #.");
             }
