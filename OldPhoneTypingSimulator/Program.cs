@@ -6,7 +6,7 @@ namespace OldPhoneTypingSimulator
     /// <summary>
     /// Class <c>OldPhone</c> represents an old phone device.
     /// </summary>
-    class OldPhone
+    public class OldPhone
     {
         /// <summary>
         /// Method <c>OldPhonePad</c> generates the output text for old phone button's input symbol sequence.
