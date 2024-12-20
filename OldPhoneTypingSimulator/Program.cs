@@ -17,7 +17,7 @@ namespace OldPhoneTypingSimulator
         /// </exception>
         public static string OldPhonePad(string input)
         {
-            var inputPattern = @"^[0-9* ]*#";
+            var inputPattern = @"^[0-9* ]*#$";
 
             if (!Regex.Match(input, inputPattern).Success)
             {
