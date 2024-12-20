@@ -41,7 +41,8 @@ We can input strings of any length containing only the digits, symbols of the ph
 ### How to use it? ###
 * Clone the project and open the project directory by using the File Explorer locally
 * Open the `.sln` file in Visual Studio
-* Run the project and test your inputs
+* Run the project and test with your preferred inputs
+* To execute the predefined unit test, execute this command after opening the terminal at the current folder: `dotnet test`
 
 
 ### Contact ###
