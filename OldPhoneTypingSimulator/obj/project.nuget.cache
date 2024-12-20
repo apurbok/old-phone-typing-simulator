@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RmrFNBljQUiUfCW38gX5+hhhVBTBDy982vl8tac/R6LeuXFv00ECFhp/7OnwaybjKBucF8Uy/dShD5OwGcsirA==",
+  "success": true,
+  "projectFilePath": "/Users/ajay14/Projects/OldPhoneTypingSimulator/OldPhoneTypingSimulator/OldPhoneTypingSimulator.csproj",
+  "expectedPackageFiles": [
+    "/Users/ajay14/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/ajay14/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/ajay14/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
